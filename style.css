@@ -3,9 +3,11 @@
 body{
     background-color:rgb(215, 237, 230);
      font-family: "Dancing Script", cursive;
+     font-size: 20px;
 }
+
 footer{
-    background-color: rgb(222, 154, 8);
+    background-color: rgb(95, 140, 5);
     color: aliceblue;
     position:fixed;
     width: 100%;
@@ -13,10 +15,27 @@ footer{
     height: 2rem;
 }
 
-footer p(
+footer p{
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+}
 
-texte-align: center;
-font-size: 0.6rem;
-margin-top: 0.5rem;
+.cartao{
+margin: 2rem 2rem;
+background-color: white;
+height:  20rem;
+flex-grow: 1;
+flex-basis: calc(33%-6rem);
+}
 
-)
+.cartao-conteudo{
+
+text-align: center;
+
+}
+
+#container{
+
+
+}
