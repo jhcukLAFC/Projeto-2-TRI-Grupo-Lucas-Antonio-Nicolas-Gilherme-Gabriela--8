@@ -4,7 +4,7 @@
 :root{
 
 --text-color: #DBE4EF;
---card-font-color: #144480;
+--card-font-color: #3a93ff;
 --card-back-color: #082d77;
 
 
@@ -56,4 +56,8 @@ display: flex;
 
 .cartao_conteudo_pergunta {
 color: var(--text-color);
+}
+
+.cartao_conteudo_resposta{
+color: var(--card-font-color);
 }
