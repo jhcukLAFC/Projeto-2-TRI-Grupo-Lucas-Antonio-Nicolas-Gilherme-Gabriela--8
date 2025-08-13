@@ -12,6 +12,7 @@
 }
 body{
     background-image: url(imagens/05-as-paisagens-naturais-mais-lindas-do-brasil-cataratas-do-iguacu-min.webp);
+    background-repeat: no-repeat;
      font-family: "Dancing Script", cursive;
      font-size: 20px;
 }
